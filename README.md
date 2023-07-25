@@ -1,2 +1,2 @@
 # WAR-GAME
-2D GAME using unity
+2D GAME (2 Players) using unity
